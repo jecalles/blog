@@ -1,3 +1,4 @@
-# Start a F**king Blog!
+# jon blogs
 
-Repo for the startafuckingblog.com website
+Repo for "jon blogs". Forked from [startablog.com](https://github.com/kevquirk/startablog)
+
