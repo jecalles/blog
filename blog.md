@@ -1,7 +1,7 @@
 ---
 layout: default
 title: blog
-description: What I write when I'm not working
+description: what I write when I'm not working
 permalink: /blog/
 ---
 
