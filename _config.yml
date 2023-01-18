@@ -7,6 +7,7 @@ title: jon blogs
 
 # Build settings
 plugins:
+  - jekyll-feed
   - jekyll-seo-tag
 
 # Default front matter
