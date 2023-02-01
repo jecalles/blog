@@ -1,9 +1,9 @@
-```yaml
+---
 layout: post
 title: and so it begins
 description: 
 typora-root-url: ../../
-```
+---
 
 Unlike last year (curse you, COVID!) I found myself fortunate enough to be home for the holidays at the end of 2022. Naturally, I found myself periodically and profoundly bored between family meals and arguments, and sought comfort deep in the bowels of [Hacker News](https://news.ycombinator.com). I was desperate for some :lustful voice: *content* and mostly found it. Heard of a [nomograph](https://news.ycombinator.com/item?id=34211187)? It's how [old timey engineers would calculate numbers by drawing lines on pretty graphs](https://en.wikipedia.org/wiki/Nomogram) and I'm OBSESSED! Here's one that let's you calculate how much a tomato breathes![tomato breathing intensifies](https://www.researchgate.net/profile/Mahmut-Cetin/publication/291787697/figure/fig1/AS:669425556549650@1536614898772/A-nomograph-for-daily-estimation-of-ET-a-for-tomato-Courtesy-of-Drs-Tueluecue-and-Cetin.png "劫舒窶昨汳ｨ")
 
